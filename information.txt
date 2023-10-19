@@ -1,0 +1,5 @@
+1,Serhat,CEO,5000
+2,Ali,CTO,2000
+3,Burak,ENG,3000
+4,Gökdeniz,TECH,2500
+5,Zeynep,STU,500
